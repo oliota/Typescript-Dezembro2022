@@ -1,4 +1,4 @@
-# Typescript-Dezembro2022# Fundamento-CSS
+# Typescript-Dezembro2022
  
 > Conteúdo prático realizado em sala durante o curso - Typescript
 > Em aditivo oportunidades de aprendizado em:
